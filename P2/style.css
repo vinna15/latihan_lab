@@ -1,0 +1,43 @@
+h2{
+    color: darkcyan;
+}
+#judul2{
+    background-color: beige;
+}
+.judul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover{
+    /* text-decoration: none;
+    background-color: brown;
+    border-radius: 5px;
+    font-weight: bold; */
+    color: gray;
+
+}
+
+ul li{
+    /* display: flex;
+    flex-wrap: nowrap;
+    list-style: none;
+    flex-direction: row;
+    gap: 10px;
+    margin-right: 50px; */
+
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+
+ul{
+    overflow: auto;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    text-align: center;
+    border-radius: 12px;
+}
